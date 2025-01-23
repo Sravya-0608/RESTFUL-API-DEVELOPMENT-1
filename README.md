@@ -84,13 +84,13 @@ DOWNLOAD AND INSTALL POSTMAN FOR EXPRESS
     . ENTER THE DATE YOU WANT TO SEND IN THE REQUEST BODY.THIS DATE SHOULD ONLY INCLUDE THE SPECIFIC CHANGES YOU WANT TO MAKE TO THE RESOURCES
     . FINALL, CILCK ON "SEND"
 # OUTPUTS
-![Image](https://github.com/user-attachments/assets/bab2b882-8faa-4bc5-a6f2-93f633795755)
-![Image](https://github.com/user-attachments/assets/5161df17-04c7-4aed-8df6-0fdf5c03824a)
+![Image](https://github.com/user-attachments/assets/7809fc46-0d0e-4db1-9916-12b9b390d9dc)
 
 ![Image](https://github.com/user-attachments/assets/8fc01615-f879-4673-8bc2-5ae6fcc24042)
 ![Image](https://github.com/user-attachments/assets/cd95efd8-1386-46f5-8952-f5f689faef47)
-![Image](https://github.com/user-attachments/assets/a0557334-bd5c-4f4d-846b-5ffa8a89aad7)
-![Image](https://github.com/user-attachments/assets/7809fc46-0d0e-4db1-9916-12b9b390d9dc)
+
+![Image](https://github.com/user-attachments/assets/bab2b882-8faa-4bc5-a6f2-93f633795755)
+![Image](https://github.com/user-attachments/assets/5161df17-04c7-4aed-8df6-0fdf5c03824a)
 
 ![Image](https://github.com/user-attachments/assets/c2b05a2a-e1b2-4e64-b612-167979d26dcf)
 ![Image](https://github.com/user-attachments/assets/7899d6f0-1a52-4982-b9c7-f344b1a48ddb)
