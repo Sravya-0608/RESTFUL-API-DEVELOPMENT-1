@@ -84,4 +84,11 @@ DOWNLOAD AND INSTALL POSTMAN FOR EXPRESS
     . ENTER THE DATE YOU WANT TO SEND IN THE REQUEST BODY.THIS DATE SHOULD ONLY INCLUDE THE SPECIFIC CHANGES YOU WANT TO MAKE TO THE RESOURCES
     . FINALL, CILCK ON "SEND"
 # OUTPUTS
-
+![Image](https://github.com/user-attachments/assets/f81ea596-5bed-4def-8063-26fac52799e9)
+![Image](https://github.com/user-attachments/assets/efb66200-67ea-4d4e-b2d9-c72e79400905)
+![Image](https://github.com/user-attachments/assets/bd5b94bc-27d7-4f9b-b49b-4dd6eeed1cdb)
+![Image](https://github.com/user-attachments/assets/df843bd8-8735-440f-897e-15cc908a959c)
+![Image](https://github.com/user-attachments/assets/6c5984c6-fcd7-4f90-816c-f63756abaac1)
+![Image](https://github.com/user-attachments/assets/5f17f827-d23e-40ac-8618-e136e1c14a27)
+![Image](https://github.com/user-attachments/assets/99f8a1f1-a381-4d5a-9cda-5b7f1bd7585f)
+![Image](https://github.com/user-attachments/assets/3997f08c-29a7-4e23-99c6-d92985142fc4)
